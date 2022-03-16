@@ -18,5 +18,5 @@ Use ctrl + f4 on Linux and windows or use cmd + f4 keys to run the command
 
 ### For more information
 
-* [Support](vscextension@okstudios.ml)
+* [Support](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmznKVVmqXFpDzqZMvPTwKzkJSdpcrBppBBCspVHRDxNwlJSsjlmKJqTQBXtkBHSHnFvSH)
 * [Github](https://github.com/OkGameStudios/html-file-opener)
