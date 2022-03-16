@@ -8,12 +8,8 @@ Click ctrl + shift + P to open command palette then search for open in browser c
 
 Use ctrl + f4 on Linux and windows or use cmd + f4 keys to run the command 
 
-### 1.1.0
-
-Updated keybinds and support.
-
-### Coming Soon
-opening of html files with a autorefreshing server  
+## Coming Soon
+* opening of html files with a autorefreshing server  
 -----------------------------------------------------------------------------------------------------------
 
 ## Keyboard shortcuts
@@ -23,4 +19,4 @@ opening of html files with a autorefreshing server
 ### For more information
 
 * [Support](vscextension@okstudios.ml)
-* [Github](https://github.com/OkGameStudios)
+* [Github](https://github.com/OkGameStudios/html-file-opener)
